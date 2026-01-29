@@ -2,7 +2,7 @@ Section 1 -Task2
 
 To migrate the existing on-premises system, several components can be migrated to the cloud using appropriate service models such as IaaS, PaaS, and SaaS.
 
-1. Web Application (Monolithic) – IaaS
+1. Web Application (Monolithic) – IaaS   
 The monolithic web application currently hosted on physical servers can be migrated to Infrastructure as a Service (IaaS) by deploying it on cloud virtual machines.
 
 3. Backend SQL Database – PaaS
@@ -16,6 +16,7 @@ Physical routers, firewalls, and network configurations can be migrated to IaaS 
 
 6. Email Services – SaaS
 On-premises email servers used for client notifications can be migrated to Software as a Service (SaaS) email platforms.
+
 
 
 
