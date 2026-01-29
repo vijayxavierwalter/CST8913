@@ -1,5 +1,5 @@
-Section 1
-Task2
+Section 1 -Task2
+
 To migrate the existing on-premises system, several components can be migrated to the cloud using appropriate service models such as IaaS, PaaS, and SaaS.
 
 1. Web Application (Monolithic) – IaaS 
@@ -16,3 +16,4 @@ Physical routers, firewalls, and network configurations can be migrated to IaaS 
 
 5. Email Services – SaaS
 On-premises email servers used for client notifications can be migrated to Software as a Service (SaaS) email platforms.
+
